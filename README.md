@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vasudeva K Bhat
 - 👀 I'm currently interested in computational neurobiology
-- 🌱 I’m currently learning how to mke my model work
+- 🌱 I’m currently learning how to make my model work
 - 📫 You can reach me through email - vasudeva.bhat@students.iiserpune.ac.in 
 
 <!---
